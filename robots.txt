@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lversky.github.io/openquality/sitemap.xml
+Sitemap: https://lversky.github.io/OpenQuality/sitemap.xml
